@@ -1,7 +1,10 @@
 body {
   text-align: center;
   background-color: rgb(142, 226, 237);
-  margin-top: 200px
+  position: asbsolute;
+  top: 50%;
+  width: 100%;
+  transform: traslateY(-50%)
 }
 
 a.count {
