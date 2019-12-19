@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-color: rgb(142, 226, 237);
+  margin-top: 200px
+}
+
+a.count {
+  font-size: 200px;
+  font-family: Courier;
+  padding: 12px 12px;
+  background-color: rgb(40, 171, 189)
+}
+
+p.reset {
+  font-size: 100px;
+  font-family: Courier
+}
