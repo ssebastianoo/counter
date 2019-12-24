@@ -1,7 +1,7 @@
 body {
   text-align: center;
   background-color: rgb(142, 226, 237);
-  width: 300%
+  width: 100%
   position: absolute;
   top: 50%;
   tranform: translateY(-50%)
